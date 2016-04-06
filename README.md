@@ -1,5 +1,5 @@
 # easy-react
-Easy frontend react starter kit.
+Easy frontend react starter kit(js+css loader).
 ## Installation (ubuntu 15.10 npm 3.7.3 node 5.8.0):
 1. `git clone https://github.com/asm-jaime/easy-react.git`
 2. `cd easy-react`
