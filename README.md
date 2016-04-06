@@ -5,6 +5,6 @@ Easy frontend react starter kit.
 2. `cd easy-react`
 3. `npm install`
 4. `node dev-server`
-5. In browser `http://localhost:8080/webpack-dev-server`
+5. In browser `http://localhost:8089/webpack-dev-server`
 6. Click `build` folder
 7. Good luck :)!
